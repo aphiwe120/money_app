@@ -26,7 +26,7 @@ A local-first, privacy-focused mobile finance application built with **Flutter**
 
 | Home | Analytics | Security |
 |:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/76983c1c-38ec-4348-9234-abf7c004bfd7" width="200"> | <img src="[PASTE_LINK_2_HERE](https://github.com/user-attachments/assets/75f97e76-2129-4fdf-b9a1-64c8f2a9d360)" width="200"> | <img src="[PASTE_LINK_3_HERE](https://github.com/user-attachments/assets/6f02a40a-5d80-4cd2-8fd4-be746194d721)" width="200"> |
+| <img src="https://github.com/user-attachments/assets/76983c1c-38ec-4348-9234-abf7c004bfd7" width="200"> | <img src="https://github.com/user-attachments/assets/75f97e76-2129-4fdf-b9a1-64c8f2a9d360" width="200"> | <img src="https://github.com/user-attachments/assets/6f02a40a-5d80-4cd2-8fd4-be746194d721" width="200"> |
 
 ## 🔧 Installation & Setup
 
