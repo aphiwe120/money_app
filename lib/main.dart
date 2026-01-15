@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'providers/money_provider.dart';
-import 'screens/home_screen.dart';
+import 'screens/auth_wrapper.dart';
 
 void main() {
   runApp(
@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
         colorSchemeSeed: Colors.blueGrey,
         brightness: Brightness.dark,
       ),
-      home: const HomeScreen(),
+      home: const AuthWrapper(),
     );
   }
 }
